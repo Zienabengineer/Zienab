@@ -1,0 +1,4 @@
+cv2
+pandas
+numpy
+ultralytics
